@@ -1,0 +1,6 @@
+streamlit
+librosa
+numpy
+matplotlib
+moviepy
+imageio_ffmpeg
